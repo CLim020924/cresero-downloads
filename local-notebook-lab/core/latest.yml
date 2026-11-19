@@ -1,21 +1,21 @@
-version: 0.6.0
+version: 0.6.1
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-18T07:13:44.946Z'
+releaseDate: '2026-11-18T08:05:12.746Z'
 releaseNotes: |-
-  기본을 경량 Python·Jupyter 노트북 환경으로 전환
-  노트북·설정·기존 추가 패키지와 필수 의존성 보존
-  딥러닝·과학 계산 라이브러리는 패키지명·용도 검색으로 선택 설치
-  기존 대용량 내장 환경을 새 경량 환경으로 교체
-  자동 업데이트 확인은 기본 꺼짐
+  셀 아래 누락 모듈 설치 안내 및 데이터 파일 경로 안내
+  노트북·데이터 파일 가져오기와 실행 없는 import 검사
+  패키지 항목 선택 후 실제 호환 버전을 최신순으로 선택 설치
+  공유 의존성 해결·버전 교체 내역 표시·충돌 시 기존 환경 보존
+  경량 기본 환경 유지
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.6.0/LocalNotebookLab-Update-0.6.0-x64.exe
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.6.1/LocalNotebookLab-Update-0.6.1-x64.exe
     sha512: >-
-      K1QFNu0srMntIN82wvmmQIPf9FTx++UJ9JdLioEpGC0UU2dWctFCuNJj/mCsDNxKa4jqNakCulLAHU4XZxGZiw==
-    size: 178676469
+      rXH55XZldaQzoGF9v/1xjabKthraMbf2pVdaxV/Mf4ThaDj+eGiY47dzgPrssAwjdbZ2qwJmFs5TNP9UOr/+jA==
+    size: 149563020
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.6.0/LocalNotebookLab-Update-0.6.0-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.6.1/LocalNotebookLab-Update-0.6.1-x64.exe
 sha512: >-
-  K1QFNu0srMntIN82wvmmQIPf9FTx++UJ9JdLioEpGC0UU2dWctFCuNJj/mCsDNxKa4jqNakCulLAHU4XZxGZiw==
+  rXH55XZldaQzoGF9v/1xjabKthraMbf2pVdaxV/Mf4ThaDj+eGiY47dzgPrssAwjdbZ2qwJmFs5TNP9UOr/+jA==
