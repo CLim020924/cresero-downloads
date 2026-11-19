@@ -1,21 +1,22 @@
-version: 0.7.0
+version: 0.8.0
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-19T01:23:25.082Z'
+releaseDate: '2026-11-19T03:35:15.428Z'
 releaseNotes: |-
-  VS Code를 참고한 메뉴·활동 표시줄·탐색기·편집기 탭 배치
-  다크·라이트·시스템 테마와 글꼴·줄바꿈·자동 저장 설정
-  명령 팔레트·빠른 파일 이동·노트북 코드 검색
-  VS Code 방식의 단축키와 Ctrl+K 연속 키 지원
-  기존 노트북·추가 패키지·탭별 CPU/GPU 실행 및 경량 환경 유지
+  마지막 작업 탭과 미저장 초안 복구·프로젝트별 작업 보존
+  외부 파일 변경 감지와 덮어쓰기 방지·다른 이름으로 저장
+  노트북 복제·새 폴더·셀 복제/유형 변경/삭제 복구/출력 지우기
+  탭 전환 후 편집 실행 취소 유지·긴 출력 제한·실행 상태 개선
+  작업 복구·테마 설정까지 업데이트 백업에 포함
+  경량 기본 환경·탭별 CPU/GPU·선택 패키지 정책 유지
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.7.0/LocalNotebookLab-Update-0.7.0-x64.exe
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.8.0/LocalNotebookLab-Update-0.8.0-x64.exe
     sha512: >-
-      d6CS8qRFgzmF9HVNkR3uDDUYofYEYTY/Txy7XqvbqrrUEa2xaP+FugKfqB9VCNMuzjOA53QHF064k3ygD2kUaA==
-    size: 149575114
+      p08nacMN4pWStE8indP1x+0i3IFS4N920oixH/osr9Syh/4msIihCLqYDuM2frxUfJO4ouESlkym8GcoE3/2lQ==
+    size: 149580114
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.7.0/LocalNotebookLab-Update-0.7.0-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.8.0/LocalNotebookLab-Update-0.8.0-x64.exe
 sha512: >-
-  d6CS8qRFgzmF9HVNkR3uDDUYofYEYTY/Txy7XqvbqrrUEa2xaP+FugKfqB9VCNMuzjOA53QHF064k3ygD2kUaA==
+  p08nacMN4pWStE8indP1x+0i3IFS4N920oixH/osr9Syh/4msIihCLqYDuM2frxUfJO4ouESlkym8GcoE3/2lQ==
