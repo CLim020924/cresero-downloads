@@ -1,21 +1,24 @@
-version: 0.9.0
+version: 0.10.0
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-20T03:19:45.589Z'
+releaseDate: '2026-11-20T15:32:40.313Z'
 releaseNotes: |-
-  패키지 설치와 설정 분리: 왼쪽 검색·목록 및 편집기 영역 상세 화면
-  PyPI 배포 설명·프로젝트 링크·의존성·Python 요구사항 표시
-  설명 아래 이전 버전 접기 목록: 버전별 실제 정보와 선택 설치
-  기본 내장/추가 설치 구분 및 검증된 GPU 조합 유지
-  노트북 탭·미저장 코드와 경량 기본 환경 유지
+  실제 Python 자동완성·함수 설명·정의 이동·목차·문제 목록
+  선택한 커널의 변수·배열·데이터프레임·CPU/GPU 텐서 미리보기
+  Python 입력창·중단점·단계별 디버깅·실행 상태 패널
+  노트북 분할 편집·Python/텍스트 편집·CSV/이미지 미리보기
+  로컬 변경 이력·비교·복원·추가 파일 초안 복구
+  선택 Ruff 코드 정리·코드 조각·Python 내보내기·그래프 저장
+  프로젝트별 추가 패키지 환경과 명세 내보내기
+  경량 기본76개 및 기존 노트북·추가 패키지 보존
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.9.0/LocalNotebookLab-Update-0.9.0-x64.exe
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.10.0/LocalNotebookLab-Update-0.10.0-x64.exe
     sha512: >-
-      KTbWqW5DkUknxmzVs+vQeP4Nsrt+/8xARXw1S9/Hm/DB/G/A2LhShmzq0XIeEHD1tqvqrql+PdGbN4rUQYER7w==
-    size: 149586806
+      l4SC+ysyzkqXUMv/thDyBxHbxjcGk+ly2fjoWarGFz2LyGU8JyeQUf2YP2eqyvT2dr5Z0Mq8Fi+Yhu5+xZaOPg==
+    size: 149627502
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.9.0/LocalNotebookLab-Update-0.9.0-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.10.0/LocalNotebookLab-Update-0.10.0-x64.exe
 sha512: >-
-  KTbWqW5DkUknxmzVs+vQeP4Nsrt+/8xARXw1S9/Hm/DB/G/A2LhShmzq0XIeEHD1tqvqrql+PdGbN4rUQYER7w==
+  l4SC+ysyzkqXUMv/thDyBxHbxjcGk+ly2fjoWarGFz2LyGU8JyeQUf2YP2eqyvT2dr5Z0Mq8Fi+Yhu5+xZaOPg==
