@@ -1,22 +1,24 @@
-version: 0.15.0
+version: 0.17.0
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-24T00:52:49.540Z'
+releaseDate: '2026-11-24T07:16:23.951Z'
 releaseNotes: |-
-  프로젝트 파일을 한 번 클릭하여 열기, 기존 탭과 미저장 코드 보존
-  VS Code와 Jupyter를 참고한 단축키 명령 37개 추가
-  Ctrl+K R 현재 파일 위치 열기, 경로 복사, 편집기 그룹 이동
-  줄 이동과 복제, 여러 위치 동시 편집, 접기, 실제 Python 자동완성 및 설명
-  탭 닫기와 다시 열기, 미저장 내용 저장 및 실행 중 전체 닫기 보호
-  기존 사용자 단축키와 경량 기본 환경, 두 글자 패키지 검색 유지
+  누락 패키지 검사와 버전 선택, 실제 의존성 검사 후 일괄 설치
+  패키지별 다운로드 진행, 실제 설치 순서와 최종 검증 완료 상태 표시
+  직접 입력하는 PowerShell 터미널, 앱 Python과 프로젝트 폴더 연결
+  설치 로그와 터미널 탭 전환, Ctrl+C 중단, Ctrl+` 열기
+  셀 진행률은 같은 자리에서 갱신하고 일반 로그와 에폭 결과는 보존
+  Python 구문 색상, 노트북과 분할 화면 및 Python 파일에 일관되게 적용
+  파일 목록 Delete 키와 우클릭 삭제, 확인 후 앱 휴지통 보관
+  기존 노트북, 추가 패키지, 설정과 경량 기본76개 환경 보존
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.15.0/LocalNotebookLab-Update-0.15.0-x64.exe
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.17.0/LocalNotebookLab-Update-0.17.0-x64.exe
     sha512: >-
-      0+BwfhpRdisABTZm6XKsLLuj3ae2yNzcOI+xcEcJDZzI3nXaUcmimoBU9JDAEzp4GXn44Ae0AEqLTadka/Fn7g==
-    size: 150018198
+      lUFzxdRmTYL5ohGAc/Wd3t+F/YpKFCHnld6LsHtoguHmK6SpZ6hj03WStH1qXWAOMdnPBUzZ8p3R/mexk7dctg==
+    size: 151491358
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.15.0/LocalNotebookLab-Update-0.15.0-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.17.0/LocalNotebookLab-Update-0.17.0-x64.exe
 sha512: >-
-  0+BwfhpRdisABTZm6XKsLLuj3ae2yNzcOI+xcEcJDZzI3nXaUcmimoBU9JDAEzp4GXn44Ae0AEqLTadka/Fn7g==
+  lUFzxdRmTYL5ohGAc/Wd3t+F/YpKFCHnld6LsHtoguHmK6SpZ6hj03WStH1qXWAOMdnPBUzZ8p3R/mexk7dctg==
