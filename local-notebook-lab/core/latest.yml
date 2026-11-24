@@ -1,32 +1,22 @@
-version: 0.14.1
+version: 0.15.0
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-24T00:10:28.478Z'
+releaseDate: '2026-11-24T00:52:49.540Z'
 releaseNotes: |-
-  앱 상태, 설정, 패키지 안내의 가운데점 구분자 제거
-  더 보기 아이콘을 실제 말줄임표로 표시
-  RAM / GPU 표기와 정보 문구 정리
-  사용자 노트북 원문, 수식, 실제 패키지 배포 설명 유지
-  0.14.0의 파일 정리, 환경 재구성, 자원 표시, 셀 작업, 단축키 기능 포함
-  기본76개 경량 환경과 기존 노트북, 설정, 추가 패키지 보존
-
-  0.10.0 이후 누적 변경
-  파일 이동, 앱 휴지통 보관, 덮어쓰기 없는 복원
-  환경 명세 가져오기, 기존 요구사항 합치기/구성 교체, 실제 설치 진행과 취소
-  실제 PC RAM, 프로젝트 커널 메모리, 전체 GPU 상태 조회
-  여러 셀 선택, 이동, 노트북 간 복사, 사용자 단축키와 충돌 검사
-  전체 PyPI 이름 검색, 최신/호환 버전 선택, 누락 패키지 일괄 설치 안내
-  좌측 중복 목록 제거, 더블클릭 열기, 우클릭 이름 변경/복제/옆으로 열기
-  프로젝트 폴더별 새 창, 범위 실행, 셀 접기/분할/합치기, 수식/이미지/HTML 보고서
-  기본76개 경량 환경과 기존 노트북, 설정, 추가 패키지 보존
+  프로젝트 파일을 한 번 클릭하여 열기, 기존 탭과 미저장 코드 보존
+  VS Code와 Jupyter를 참고한 단축키 명령 37개 추가
+  Ctrl+K R 현재 파일 위치 열기, 경로 복사, 편집기 그룹 이동
+  줄 이동과 복제, 여러 위치 동시 편집, 접기, 실제 Python 자동완성 및 설명
+  탭 닫기와 다시 열기, 미저장 내용 저장 및 실행 중 전체 닫기 보호
+  기존 사용자 단축키와 경량 기본 환경, 두 글자 패키지 검색 유지
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.14.1/LocalNotebookLab-Update-0.14.1-x64.exe
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.15.0/LocalNotebookLab-Update-0.15.0-x64.exe
     sha512: >-
-      tGs0cjpA8H0UzTKQPwnQ0P715BHz8XHh7GznKAPNkQlORRGZFXWEB+bdEcYYMHVnjvmvY7GBlgV+E59dHJGJew==
-    size: 150012858
+      0+BwfhpRdisABTZm6XKsLLuj3ae2yNzcOI+xcEcJDZzI3nXaUcmimoBU9JDAEzp4GXn44Ae0AEqLTadka/Fn7g==
+    size: 150018198
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.14.1/LocalNotebookLab-Update-0.14.1-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.15.0/LocalNotebookLab-Update-0.15.0-x64.exe
 sha512: >-
-  tGs0cjpA8H0UzTKQPwnQ0P715BHz8XHh7GznKAPNkQlORRGZFXWEB+bdEcYYMHVnjvmvY7GBlgV+E59dHJGJew==
+  0+BwfhpRdisABTZm6XKsLLuj3ae2yNzcOI+xcEcJDZzI3nXaUcmimoBU9JDAEzp4GXn44Ae0AEqLTadka/Fn7g==
