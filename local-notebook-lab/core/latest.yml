@@ -1,8 +1,8 @@
-version: 0.20.1
+version: 0.20.2
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-26T10:37:54.103Z'
+releaseDate: '2026-11-26T12:12:03.689Z'
 releaseNotes: |-
   현재 탭을 따라가는 작은 RAM 및 GPU 메모리 게이지
   클릭하면 내 PC와 연결된 Colab 서버를 구분하는 오른쪽 리소스 패널
@@ -10,14 +10,14 @@ releaseNotes: |-
   좁은 창과 밝은 테마, 어두운 테마에서 배치 정리
   대용량 패키지 다운로드 용량 표시와 설치 실패 진단 개선
   자동 업데이트 확인 기본 꺼짐, 기존 노트북과 추가 패키지 보존
-  Colab 연결은 공개 Google OAuth 등록 준비 중이며 공개 설치본에서 비활성
+  Google 로그인 후 계정에서 허용된 무료 Colab CPU 및 GPU 연결 활성화
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.20.1/LocalNotebookLab-Update-0.20.1-x64.exe
-    size: 151524204
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.20.2/LocalNotebookLab-Update-0.20.2-x64.exe
+    size: 151524245
     sha512: >-
-      38jR4raEI4v50QFKviwVvtN8dpIX8EjxnAGOH8dI4d/tcfgcGQ+Y47jmUScoTuK0NRJXRozsPVtvj6+7nUtoFQ==
+      BZxjh5pCGxvkxuJi4wkdM9Dv82fO0+gqwgOqUzcQhQVavtQ5gVg1hEru1sNX4bTjRqk7HI+aVccpZMsPGH8GMg==
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.20.1/LocalNotebookLab-Update-0.20.1-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.20.2/LocalNotebookLab-Update-0.20.2-x64.exe
 sha512: >-
-  38jR4raEI4v50QFKviwVvtN8dpIX8EjxnAGOH8dI4d/tcfgcGQ+Y47jmUScoTuK0NRJXRozsPVtvj6+7nUtoFQ==
+  BZxjh5pCGxvkxuJi4wkdM9Dv82fO0+gqwgOqUzcQhQVavtQ5gVg1hEru1sNX4bTjRqk7HI+aVccpZMsPGH8GMg==
