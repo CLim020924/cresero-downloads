@@ -1,24 +1,23 @@
-version: 0.17.0
+version: 0.20.1
 productId: local.localnotebooklab.desktop
 platform: win32-x64
 runtimeId: 1480f84c045bae5453d582e7eee4fcdb1677f7a689ecbc83362957dd20ef13bb
-releaseDate: '2026-11-24T07:16:23.951Z'
+releaseDate: '2026-11-26T10:37:54.103Z'
 releaseNotes: |-
-  누락 패키지 검사와 버전 선택, 실제 의존성 검사 후 일괄 설치
-  패키지별 다운로드 진행, 실제 설치 순서와 최종 검증 완료 상태 표시
-  직접 입력하는 PowerShell 터미널, 앱 Python과 프로젝트 폴더 연결
-  설치 로그와 터미널 탭 전환, Ctrl+C 중단, Ctrl+` 열기
-  셀 진행률은 같은 자리에서 갱신하고 일반 로그와 에폭 결과는 보존
-  Python 구문 색상, 노트북과 분할 화면 및 Python 파일에 일관되게 적용
-  파일 목록 Delete 키와 우클릭 삭제, 확인 후 앱 휴지통 보관
-  기존 노트북, 추가 패키지, 설정과 경량 기본76개 환경 보존
+  현재 탭을 따라가는 작은 RAM 및 GPU 메모리 게이지
+  클릭하면 내 PC와 연결된 Colab 서버를 구분하는 오른쪽 리소스 패널
+  마우스 올림 상세 수치, 실제 측정값 그래프와 조회 지연 표시
+  좁은 창과 밝은 테마, 어두운 테마에서 배치 정리
+  대용량 패키지 다운로드 용량 표시와 설치 실패 진단 개선
+  자동 업데이트 확인 기본 꺼짐, 기존 노트북과 추가 패키지 보존
+  Colab 연결은 공개 Google OAuth 등록 준비 중이며 공개 설치본에서 비활성
 files:
   - url: >-
-      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.17.0/LocalNotebookLab-Update-0.17.0-x64.exe
+      https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.20.1/LocalNotebookLab-Update-0.20.1-x64.exe
+    size: 151524204
     sha512: >-
-      lUFzxdRmTYL5ohGAc/Wd3t+F/YpKFCHnld6LsHtoguHmK6SpZ6hj03WStH1qXWAOMdnPBUzZ8p3R/mexk7dctg==
-    size: 151491358
+      38jR4raEI4v50QFKviwVvtN8dpIX8EjxnAGOH8dI4d/tcfgcGQ+Y47jmUScoTuK0NRJXRozsPVtvj6+7nUtoFQ==
 path: >-
-  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.17.0/LocalNotebookLab-Update-0.17.0-x64.exe
+  https://github.com/CLim020924/cresero-downloads/releases/download/local-notebook-lab-v0.20.1/LocalNotebookLab-Update-0.20.1-x64.exe
 sha512: >-
-  lUFzxdRmTYL5ohGAc/Wd3t+F/YpKFCHnld6LsHtoguHmK6SpZ6hj03WStH1qXWAOMdnPBUzZ8p3R/mexk7dctg==
+  38jR4raEI4v50QFKviwVvtN8dpIX8EjxnAGOH8dI4d/tcfgcGQ+Y47jmUScoTuK0NRJXRozsPVtvj6+7nUtoFQ==
